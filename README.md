@@ -4,9 +4,10 @@
 Exploratory data analysis on tweets mentioning three photo-sharing social media platforms (Pinterest, Instagram and Snapchat), focusing on the popularity and text sentiment analysis.
 
 ## Data
-number (to update) of tweets filtered by keywords of pinterest, instagram and snapchat, collected from 9/8/2019 10pm to 9/9/2019 7am
+number (to update) of tweets filtered by keywords of pinterest, instagram and snapchat, collected from 9/8/2019 10pm to 9/9/2019 7am (pacific time)
 
-## Motivation
+## Objectives
+Use sentiment analysis to understand users' feelings towards different photo-sharing platforms
 
 ## Pipeline and EDA
 1. Collect tweets filtering on platform keywords and store the data in a text file (TwitterThreeCom.txt).
